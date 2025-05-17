@@ -1,6 +1,6 @@
 ---
 # You can also start simply with 'default'
-theme: '../slidev-theme-damienfern'
+theme: 'slidev-theme-damienfern'
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 # some information about your slides (markdown enabled)

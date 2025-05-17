@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@slidev/cli": "^51.3.0",
+    "slidev-theme-damienfern": "^1.0.0",
     "vue": "^3.5.13"
   }
 }
